@@ -225,7 +225,13 @@ class SPB_REST_API {
         require_once(ABSPATH . 'wp-admin/includes/file.php');
         require_once(ABSPATH . 'wp-admin/includes/image.php');
         
-        $image_id = media_sideload_image($image_url, $post_id, null, 'id');
+        $sanitized_url = esc_url_raw($image_url);
+        
+        if (empty($sanitized_url)) {
+            return;
+        }
+        
+        $image_id = media_sideload_image($sanitized_url, $post_id, null, 'id');
         
         if (!is_wp_error($image_id)) {
             set_post_thumbnail($post_id, $image_id);
