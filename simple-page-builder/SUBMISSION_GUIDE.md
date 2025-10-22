@@ -70,7 +70,7 @@ Make sure it's visible in your repository.
 
 Send an email to: **wordpress@thewebops.com**
 
-**Subject:** WordPress Developer Assessment - [Your Name]
+**Subject:** WordPress Developer Assessment - Malek Fouda
 
 **Email Body:**
 ```
@@ -78,7 +78,7 @@ Hi,
 
 I have completed the WordPress Developer Technical Assessment.
 
-Repository URL: [YOUR_REPOSITORY_URL]
+Repository URL: https://github.com/malekfouda2/Simple-Page-Builder
 
 Plugin Features Implemented:
 ✓ REST API endpoint for bulk page creation (POST /wp-json/pagebuilder/v1/create-pages)
@@ -92,7 +92,7 @@ Plugin Features Implemented:
 The plugin is production-ready and follows WordPress coding standards.
 
 Best regards,
-[Your Name]
+Malek Fouda
 ```
 
 ## Pre-Submission Checklist

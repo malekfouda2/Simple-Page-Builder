@@ -469,10 +469,10 @@ GPL v2 or later
 
 ## Credits
 
-Developed by [Your Name] as part of WordPress Developer Technical Assessment.
+Developed by **Malek Fouda** as part of WordPress Developer Technical Assessment.
 
 ## Submission Information
 
 - **Assessment:** WordPress Developer Technical Assessment - Advanced REST API & Automation Task
 - **Submission Date:** October 22, 2025
-- **Repository:** [Your GitHub Repository URL]
+- **Repository:** https://github.com/malekfouda2/Simple-Page-Builder

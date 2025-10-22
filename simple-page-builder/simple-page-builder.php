@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Simple Page Builder
- * Plugin URI: https://github.com/malekfouda2/simple-page-builder
+ * Plugin URI: https://github.com/malekfouda2/Simple-Page-Builder
  * Description: Create bulk pages via secure REST API with advanced authentication and webhook notifications
  * Version: 1.0.0
  * Author: Malek Fouda
- * Author URI: https://malekfouda.com
+ * Author URI: https://github.com/malekfouda2
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: simple-page-builder
