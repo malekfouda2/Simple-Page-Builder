@@ -457,16 +457,6 @@ Currently, the plugin doesn't provide custom hooks, but this can be extended in 
 - Activity logging and CSV export
 - Comprehensive documentation
 
-## Support
-
-For issues, questions, or feature requests:
-- Email: wordpress@thewebops.com
-- Create an issue in the GitHub repository
-
-## License
-
-GPL v2 or later
-
 ## Credits
 
 Developed by **Malek Fouda** as part of WordPress Developer Technical Assessment.
