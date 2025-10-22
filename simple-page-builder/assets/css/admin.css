@@ -1,0 +1,110 @@
+.spb-admin-wrap {
+    max-width: 1200px;
+}
+
+.spb-section {
+    margin: 20px 0;
+}
+
+.spb-section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.spb-card {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.spb-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.spb-badge-success {
+    background: #d4edda;
+    color: #155724;
+}
+
+.spb-badge-danger {
+    background: #f8d7da;
+    color: #721c24;
+}
+
+.spb-key-display {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #f0f0f1;
+    padding: 15px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.spb-key-display code {
+    flex: 1;
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 13px;
+    word-break: break-all;
+}
+
+.spb-method {
+    display: inline-block;
+    padding: 2px 6px;
+    background: #2271b1;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.spb-documentation .spb-card h3 {
+    margin-top: 0;
+}
+
+.spb-documentation .spb-card h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.spb-documentation pre {
+    background: #f6f7f7;
+    padding: 15px;
+    border-radius: 4px;
+    overflow-x: auto;
+    border-left: 4px solid #2271b1;
+}
+
+.spb-documentation code {
+    font-family: Consolas, Monaco, monospace;
+    font-size: 13px;
+}
+
+.spb-documentation table {
+    margin-top: 15px;
+}
+
+.required {
+    color: #d63638;
+}
+
+#spb-new-key-display {
+    margin-top: 20px;
+    padding: 20px;
+    border-left: 4px solid #00a32a;
+}
+
+#spb-new-key-display h3 {
+    margin-top: 0;
+}
